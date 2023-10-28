@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Gobinda Dey from Haldia Institute of Technology<br><br>- ✨I'm currenly studing at Haldia Institute of Technology in Electronics and Communication Engineering<br>- 📚 I'm currently learning Fullstack Web Development</p>
+<p align="left">I'm Gobinda Dey from Haldia Institute of Technology<br><br>- ✨I'm currenly studing at Haldia Institute of Technology in Computer Science and Engineering<br>- 📚 I'm currently learning Fullstack Web Development</p>
 
 ###
 
@@ -50,6 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="react logo"  />
 </div>
 
 
