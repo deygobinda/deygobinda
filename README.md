@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://propulsive.in/assets/img/service-icon/service-dtls.jpg"/>
+  <img height="150" width="300" src="https://propulsive.in/assets/img/service-icon/service-dtls.jpg"/>
 </div>
 
 ###
