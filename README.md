@@ -1,6 +1,5 @@
 <div align="center">
-  <img height="150" src="<div align="center">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpropulsive.in%2Fweb-applications.php&psig=AOvVaw1-1icm7FmnpsPiv-WlBRDa&ust=1708369956944000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDJ4KLMtYQDFQAAAAAdAAAAABAJ"  />
+  <img height="150" src="https://propulsive.in/assets/img/service-icon/service-dtls.jpg"/>
 </div>
 
 ###
